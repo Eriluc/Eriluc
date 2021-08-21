@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eriluc (a old electrical engineering geek, newborn in the digital world)
+- 👋 Hi, I’m @Eriluc (an old electrical engineering geek, newborn in the digital world)
 - 👀 I’m interested in scientific app for PC and PKM
 - 🌱 I’m currently learning Python, C++ and UML
 - 💞️ I’m looking to collaborate on ??? (not sure to be skilled enough to collaborate in any project)
